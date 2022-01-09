@@ -6,9 +6,9 @@
         {
             public const float ExtraLargeThreshold = 85.0f;
 
-            public const float LargeThreshold = 80.0f;
+            public const float LargeThreshold = 85.0f;
 
-            public const float MediumThreshold = 60.0f;
+            public const float MediumThreshold = 65.0f;
 
             public const float SmallThreshold = 25.0f;
 
